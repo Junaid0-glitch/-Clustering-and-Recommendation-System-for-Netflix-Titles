@@ -10,7 +10,7 @@ A content-based recommender system built using natural language processing and u
 
 ## 🚀 Project Overview
 
-This project tackles the end-to-end pipeline of building a robust recommendation system using real-world content metadata. The process includes:
+This project tackles the end-to-end pipeline of building a robust recommendation system using real-world content metadata, The process includes:
 
 * ✅ Data Cleaning & Preprocessing
 * 📊 Hypothesis Testing & Statistical Analysis
