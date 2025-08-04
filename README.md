@@ -4,7 +4,8 @@
 
 A content-based recommender system built using natural language processing and unsupervised learning techniques, tailored to Netflix-like data. This project focuses on clustering and similarity modeling to deliver meaningful recommendations, especially for international and regional content.
 
-![Recommendation Result](<img width="517" height="459" alt="Screenshot 2025-08-05 010817" src="https://github.com/user-attachments/assets/68c282f0-6e92-49c1-ba25-b92d7832944f" />)
+![Recommendation Result]
+(<img width="517" height="459" alt="Screenshot 2025-08-05 010817" src="https://github.com/user-attachments/assets/68c282f0-6e92-49c1-ba25-b92d7832944f" />)
 
 ---
 
