@@ -23,7 +23,7 @@ This project tackles the end-to-end pipeline of building a robust recommendation
 
 ## 🧠 Why HDBSCAN?
 
-Clustering was a critical challenge. KMeans and DBSCAN both yielded poor silhouette scores and ineffective groupings. After experimenting, **HDBSCAN combined with UMAP** showed significant improvement with a silhouette score of **0.65**, providing more meaningful and tight clusters.
+Clustering was a critical challenge. KMeans and DBSCAN both yielded poor silhouette scores and ineffective groupings, After experimenting, **HDBSCAN combined with UMAP** showed significant improvement with a silhouette score of **0.65**, providing more meaningful and tight clusters.
 
 ---
 
